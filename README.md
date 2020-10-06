@@ -5,7 +5,7 @@ __해리포터__
 ![해리포터](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTt733FxgshXilJDTXGpIhDSC8uXpqZSwSGlg&usqp=CAU)  
 _판타지 영화의 대표작!_  
 
-__메이즈러너__
+__메이즈러너__  
 ![메이즈러너](https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg)  
 _삭제된 기억, 거대한 미로로 둘러싸인 낯선 공간_  
 _살아 남기 위해서는 뛰어야 한다!_  
